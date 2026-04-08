@@ -18,7 +18,7 @@ spec:
     spec:
       containers:
       - name: timetable
-        image: YOUR_DOCKER_USERNAME/timetable-app:latest
+        image: nidhireddy11/timetable-app:latest
         ports:
         - containerPort: 80
 
